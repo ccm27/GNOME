@@ -1,2 +1,3 @@
 # GNOME
-pointer to gnome gitlab
+#Goto Gilab:
+#https://gitlab.gnome.org/GNOME
